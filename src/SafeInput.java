@@ -1,8 +1,8 @@
 import javax.swing.*;
+import java.util.Scanner;
+import javax.swing.JOptionPane;
 
 public class SafeInput {
-    import java.util.Scanner;
-import javax.swing.JOptionPane;
 
     /*
      * To change this license header, choose License Headers in Project Properties.
@@ -14,9 +14,7 @@ import javax.swing.JOptionPane;
      *
      * @author Wulft
      */
-    public class SafeInput
-    {
-        /**
+    /**
          *
          * @param console - Scanner instance to read the data System.in in most cases
          * @param prompt - input prompt msg should not include range info
@@ -162,7 +160,6 @@ import javax.swing.JOptionPane;
             return retVal;
         }
 
-
         /**
          *
          * @param console - Scanner instance to read the data System.in in most cases
@@ -216,5 +213,7 @@ import javax.swing.JOptionPane;
 
             return retVal;
         }
+
+
     }
-}
+

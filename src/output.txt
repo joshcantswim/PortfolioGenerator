@@ -1,0 +1,8 @@
+**********
+Name: Josh
+**********
+email: josh@uc
+**Personal Background: 
+__________
+Cincinnati
+[Java, C#]
