@@ -1,6 +1,6 @@
 # Assignment 1: Meet and Greet
 [//]: <> (replace the following line with your info)
-### Developed by: Student Name <student@email.com>
+### Developed by: Josh Shell shelljl@mail.uc.edu
 
 #### Reflection
 [//]: <> (share your thoughts on the assignment, things you learnt and would like to remember when you look back at this assignment)
