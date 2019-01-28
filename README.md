@@ -20,6 +20,7 @@
 - [ ] The program uses `JFileChooser` properly;
 - [ ] The program output is formatted properly;
 
-**Your Grade:** .../20
+**Your Grade:** 10/20
 
 **Notes:**
+
