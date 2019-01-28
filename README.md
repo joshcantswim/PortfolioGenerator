@@ -10,7 +10,7 @@
 ##### Part 1:
 - [x] This line is just to show how to use checklists in the README markdown file.
 - [ ] The program runs with no errors;
-- [ ] The program uses `ArrayList`;
+- [X] The program uses `ArrayList`;
 - [ ] The program generate the text file in the above format;
 - [ ] ⭐️ The name in the exported text file is centered;
 - [ ] ️️⭐️ The report is designed in a better format;
@@ -20,6 +20,6 @@
 - [ ] The program uses `JFileChooser` properly;
 - [ ] The program output is formatted properly;
 
-**Your Grade:** .../20
+**Your Grade:** 12/20
 
 **Notes:**
