@@ -42,7 +42,7 @@ public class PortfolioGenerator {
 
         try{
             BufferedWriter writer = new BufferedWriter(new FileWriter("/Users/joshshell/Desktop/JavaPrograms/PortfolioGenerator/src/output.txt"));
-            writer.write("**********\n" + "Name: " + name + "\n"
+            writer.write("*************************\n" + "Name: " + name + "\n"
                     + "**********\n" + "email: " + email + "\n"
                     + "**Personal Background: " +  "\n"
                     +"__________" + "\n"
