@@ -1,8 +1,14 @@
 **********
 Name: Josh
 **********
-email: josh@uc
+email: Josh@uc.edu
 **Personal Background: 
 __________
-Cincinnati
-[Java, C#]
+
+I'm from Columbus/NYC
+
+
+Achievements: 
+****************
+Languages: 
+[Java, C#, Swift]

@@ -39,14 +39,17 @@ public class PortfolioGenerator {
 
             done = si.getYNConfirm(in, "Done?");
         }
-
+                //output goes here
         try{
             BufferedWriter writer = new BufferedWriter(new FileWriter("/Users/joshshell/Desktop/JavaPrograms/PortfolioGenerator/src/output.txt"));
             writer.write("**********\n" + "Name: " + name + "\n"
                     + "**********\n" + "email: " + email + "\n"
                     + "**Personal Background: " +  "\n"
                     +"__________" + "\n"
+                    +"\n"
                     + background + "\n"
+                    + "\n" + "\n"
+                    + "Achievements: " + "\n" + "****************\n" + "Languages: " + "\n"
                     + al);
 
             writer.close();
